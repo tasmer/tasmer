@@ -1,17 +1,35 @@
 ### Hi I'm Zainoudine 👋
 
-I am a web developer.
+I am a web developer. I work as Freelancer at Paris, and I work mostly with WordPress.
 
-<a href="https://twitter.com/tasmerb">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/tasmer/tasmer/master/assets/twitter.svg" />
-</a>
+## Currently working with:
+<img src="assets/wordpress.svg" />
+<img src="assets/php.svg" />
+<img src="assets/composer.svg" />
+<img src="assets/docker.svg" />
+<img src="assets/visual-studio-code.svg" />
+<img src="assets/phpstorm.svg" />
 
-<a href="https://fr.linkedin.com/in/zainoudine">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/tasmer/tasmer/master/assets/linkedin.svg" />
-</a>
-<a href="https://profiles.wordpress.org/tasmer">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/tasmer/tasmer/master/assets/wordpress.svg" />
-</a>
+## Learning
+<img src="assets/laravel.svg" />
+<img src="assets/lumen.svg" />
+<img src="assets/react.svg" />
+
+## Links
+<p align="center">
+  <a href="https://twitter.com/tasmerb">
+    <img alt="tasmer's twitter" width="32px" src="assets/twitter.svg" />
+  </a>
+  <a href="https://fr.linkedin.com/in/zainoudine">
+    <img alt="tasmer's LinkedIn" width="32px" src="assets/linkedin.svg" />
+  </a>
+  <a href="https://profiles.wordpress.org/tasmer">
+    <img alt="tasmer's WordPress" width="32px" src="assets/wordpress.svg" />
+  </a>
+</p>
+
+
+
 
 <!--
 **tasmer/tasmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
