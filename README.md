@@ -2,21 +2,35 @@
 
 I am a web developer. I work as Freelancer at Paris, and I work mostly with WordPress.
 
-## Currently working with:
-<img src="assets/wordpress.svg" />
-<img src="assets/php.svg" />
-<img src="assets/composer.svg" />
-<img src="assets/docker.svg" />
-<img src="assets/visual-studio-code.svg" />
-<img src="assets/phpstorm.svg" />
+### Currently working with:
 
-## Learning
-<img src="assets/laravel.svg" />
-<img src="assets/lumen.svg" />
-<img src="assets/react.svg" />
+<a href="https://wordpress.org/">
+    <img src="assets/wordpress.svg" width="32px" />
+</a>
+<a href="https://www.php.net/">
+    <img src="assets/php.svg" width="32px" />
+</a>
+<a href="https://getcomposer.org/">
+    <img src="assets/composer.svg" width="32px" />
+</a>
+<a href="https://www.docker.com/">
+    <img src="assets/docker.svg" width="32px" />
+</a>
+<a href="https://code.visualstudio.com/">
+    <img src="assets/visual-studio-code.svg" width="32px" />
+</a>
+<a href="https://www.jetbrains.com/phpstorm/">
+    <img src="assets/phpstorm.svg" width="32px" />
+</a>
 
-## Links
-<p align="center">
+### Learning
+<p>
+  <a href="https://laravel.com/"><img src="assets/laravel.svg" width="32px" /></a>
+  <a href="https://lumen.laravel.com/"><img src="assets/lumen.svg" width="32px" /></a>
+  <a href="https://fr.reactjs.org/"><img src="assets/react.svg" width="32px" /></a>
+</p>
+### Links
+<p>
   <a href="https://twitter.com/tasmerb">
     <img alt="tasmer's twitter" width="32px" src="assets/twitter.svg" />
   </a>
@@ -27,21 +41,3 @@ I am a web developer. I work as Freelancer at Paris, and I work mostly with Word
     <img alt="tasmer's WordPress" width="32px" src="assets/wordpress.svg" />
   </a>
 </p>
-
-
-
-
-<!--
-**tasmer/tasmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
