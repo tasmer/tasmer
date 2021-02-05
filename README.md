@@ -20,9 +20,7 @@ I am a web developer. I work as Freelancer at Paris, and I work mostly with Word
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="assets/visual-studio-code.svg" width="35px" />
   </a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
-    <img src="assets/phpstorm.svg" width="35px" />
-  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="assets/phpstorm.svg" width="35px" /></a>
 </p>
 
 ## Learning
@@ -50,6 +48,6 @@ I am a web developer. I work as Freelancer at Paris, and I work mostly with Word
     <img alt="tasmer's WordPress" width="35px" src="assets/wordpress.svg" />
   </a>
   <a href="https://www.instagram.com/tasmer/" target="_blank">
-    <img alt="tasmer's Instagram" width="35px" src="assets/wordpress.svg" />
+    <img alt="tasmer's Instagram" width="35px" src="assets/instagram.svg" />
   </a>
 </p>
