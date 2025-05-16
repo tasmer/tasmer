@@ -8,23 +8,14 @@
 ## 🛠 Tech Stack  
 
 ### 🔹 Backend  
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)  
-![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&color=black)  
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)  
-![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&color=21759B)  
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4) ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&color=black) ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)  ![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&color=21759B)  
 
 ### 🔹 Frontend  
-![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)  
-![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)  
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB) ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)  
  
 
 ### 🔹 DevOps & Tools  
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED)  
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)  
-![GitLab CI/CD](https://img.shields.io/badge/CI/CD-GitLab-informational?style=flat&logo=gitlab&color=FC6D26)  
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&color=007ACC)  
-![PhpStorm](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&color=000000)  
-![Composer](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&color=885630)  
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED) ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5) ![GitLab CI/CD](https://img.shields.io/badge/CI/CD-GitLab-informational?style=flat&logo=gitlab&color=FC6D26) ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&color=007ACC) ![PhpStorm](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&color=000000) ![Composer](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&color=885630)  
 
 
 ## 📚 Currently Learning
