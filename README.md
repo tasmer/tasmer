@@ -11,7 +11,8 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4) ![Symfony](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=symfony&color=black) ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)  ![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&color=21759B)  
 
 ### 🔹 Frontend  
-![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB) ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)  
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB) ![Vue.js](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D) 
+![NextJs](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white)
  
 
 ### 🔹 DevOps & Tools  
